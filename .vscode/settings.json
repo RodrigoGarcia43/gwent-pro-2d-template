@@ -51,5 +51,5 @@
         "temp/": true,
         "Temp/": true
     },
-    "dotnet.defaultSolution": "Gwent-pro-3D-template.sln"
+    "dotnet.defaultSolution": "gwent-pro-3d-template.sln"
 }
