@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/home/rodrigo/Data/projects/Gwent-pro-3D-template/Assembly-CSharp.csproj",
+      "projectUniqueName": "/home/rodrigo/Data/projects/gwent-pro-3d-template/Assembly-CSharp.csproj",
       "projectName": "Assembly-CSharp",
-      "projectPath": "/home/rodrigo/Data/projects/Gwent-pro-3D-template/Assembly-CSharp.csproj",
+      "projectPath": "/home/rodrigo/Data/projects/gwent-pro-3d-template/Assembly-CSharp.csproj",
       "packagesPath": "/home/rodrigo/.nuget/packages/",
-      "outputPath": "/home/rodrigo/Data/projects/Gwent-pro-3D-template/Temp/obj/Debug/Assembly-CSharp/",
+      "outputPath": "/home/rodrigo/Data/projects/gwent-pro-3d-template/Temp/obj/Debug/Assembly-CSharp/",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "/home/rodrigo/.nuget/NuGet/NuGet.Config"
@@ -38,6 +38,11 @@
         "warnAsError": [
           "NU1605"
         ]
+      },
+      "restoreAuditProperties": {
+        "enableAudit": "true",
+        "auditLevel": "low",
+        "auditMode": "direct"
       }
     },
     "frameworks": {
@@ -54,7 +59,7 @@
         ],
         "assetTargetFallback": true,
         "warn": true,
-        "runtimeIdentifierGraphPath": "/usr/share/dotnet/sdk/8.0.100/RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "/usr/share/dotnet/sdk/8.0.200/RuntimeIdentifierGraph.json"
       }
     }
   }

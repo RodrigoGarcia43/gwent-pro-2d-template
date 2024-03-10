@@ -1,0 +1,10 @@
+/home/rodrigo/Data/projects/My project/Back/bin/Debug/netstandard2.0/Back.deps.json
+/home/rodrigo/Data/projects/My project/Back/bin/Debug/netstandard2.0/Back.dll
+/home/rodrigo/Data/projects/My project/Back/bin/Debug/netstandard2.0/Back.pdb
+/home/rodrigo/Data/projects/My project/Back/obj/Debug/netstandard2.0/Back.csproj.AssemblyReference.cache
+/home/rodrigo/Data/projects/My project/Back/obj/Debug/netstandard2.0/Back.GeneratedMSBuildEditorConfig.editorconfig
+/home/rodrigo/Data/projects/My project/Back/obj/Debug/netstandard2.0/Back.AssemblyInfoInputs.cache
+/home/rodrigo/Data/projects/My project/Back/obj/Debug/netstandard2.0/Back.AssemblyInfo.cs
+/home/rodrigo/Data/projects/My project/Back/obj/Debug/netstandard2.0/Back.csproj.CoreCompileInputs.cache
+/home/rodrigo/Data/projects/My project/Back/obj/Debug/netstandard2.0/Back.dll
+/home/rodrigo/Data/projects/My project/Back/obj/Debug/netstandard2.0/Back.pdb

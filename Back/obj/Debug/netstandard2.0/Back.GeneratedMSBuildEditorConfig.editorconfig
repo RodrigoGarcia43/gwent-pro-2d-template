@@ -1,5 +1,5 @@
 is_global = true
-build_property.RootNamespace = 
-build_property.ProjectDir = /home/rodrigo/Data/projects/gwent-pro-3d-template/
+build_property.RootNamespace = Back
+build_property.ProjectDir = /home/rodrigo/Data/projects/My project/Back/
 build_property.EnableComHosting = 
 build_property.EnableGeneratedComInterfaceComImportInterop = 

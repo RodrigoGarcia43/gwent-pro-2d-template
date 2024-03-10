@@ -1,30 +1,30 @@
 {
   "format": 1,
   "restore": {
-    "/home/rodrigo/Data/projects/gwent-pro-3d-template/Assembly-CSharp.csproj": {}
+    "/home/rodrigo/Data/projects/My project/Back/Back.csproj": {}
   },
   "projects": {
-    "/home/rodrigo/Data/projects/gwent-pro-3d-template/Assembly-CSharp.csproj": {
+    "/home/rodrigo/Data/projects/My project/Back/Back.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/home/rodrigo/Data/projects/gwent-pro-3d-template/Assembly-CSharp.csproj",
-        "projectName": "Assembly-CSharp",
-        "projectPath": "/home/rodrigo/Data/projects/gwent-pro-3d-template/Assembly-CSharp.csproj",
+        "projectUniqueName": "/home/rodrigo/Data/projects/My project/Back/Back.csproj",
+        "projectName": "Back",
+        "projectPath": "/home/rodrigo/Data/projects/My project/Back/Back.csproj",
         "packagesPath": "/home/rodrigo/.nuget/packages/",
-        "outputPath": "/home/rodrigo/Data/projects/gwent-pro-3d-template/Temp/obj/Debug/Assembly-CSharp/",
+        "outputPath": "/home/rodrigo/Data/projects/My project/Back/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "/home/rodrigo/.nuget/NuGet/NuGet.Config"
         ],
         "originalTargetFrameworks": [
-          "netstandard2.1"
+          "netstandard2.0"
         ],
         "sources": {
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
-          "netstandard2.1": {
-            "targetAlias": "netstandard2.1",
+          "netstandard2.0": {
+            "targetAlias": "netstandard2.0",
             "projectReferences": {}
           }
         },
@@ -40,8 +40,16 @@
         }
       },
       "frameworks": {
-        "netstandard2.1": {
-          "targetAlias": "netstandard2.1",
+        "netstandard2.0": {
+          "targetAlias": "netstandard2.0",
+          "dependencies": {
+            "NETStandard.Library": {
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[2.0.3, )",
+              "autoReferenced": true
+            }
+          },
           "imports": [
             "net461",
             "net462",

@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "xjsEQr+ck2sv0Icg3hGCV+eRKqLkB7+UkkLjcKN3/uxY7R9PcECE/SOduScfURx6e43gShSF0q+B1T9srNDePg==",
+  "dgSpecHash": "MfcdbJHrXP05IeyAbqn8I+SzfGxRKvArEp54dUjBiEt3yXDb7rVoPuIPh9zWNIfpnE/6k0MvbMUdjjFiXRfEag==",
   "success": true,
-  "projectFilePath": "/home/rodrigo/Data/projects/Gwent-pro-3D-template/Assembly-CSharp.csproj",
+  "projectFilePath": "/home/rodrigo/Data/projects/gwent-pro-3d-template/Assembly-CSharp.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }
